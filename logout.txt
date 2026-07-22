@@ -1,1 +1,1 @@
-this is the logout file in the local PC. 
+this is the remote version of logut file 
