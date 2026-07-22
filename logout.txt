@@ -1,1 +1,2 @@
-this is the remote version of logut file 
+this is the remote version of logut file
+changing logout file 
